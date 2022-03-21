@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/bfa2fbaf65ac04fad78ee.jpg">
+  <img src="https://te.legra.ph/file/68e2e67944bbd0d0d0c78.jpg">
 </p>
 
 <h1 align="center"><b> GodfatherBot Robot  </b></h1>
@@ -22,7 +22,7 @@
 ## 🇮🇳 Heroku Deploy 🇮🇳
 The easiest way to deploy this Bot is via Heroku.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Godfatherakkii/TGN-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/sakshi444a/TGN-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
