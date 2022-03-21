@@ -1,5 +1,5 @@
 {
-      "name": "TGN-Robot",
+      "name": "SFL-Robot",
       "description": "A Powerful  Telegram group management bot with anime theme.",
       "keywords": [
          "telegram",
@@ -9,8 +9,8 @@
          "naorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/ddfcd6fc8386a39613704.jpg",  
-   "repository": "https://github.com/Godfatherakkii/TGN-ROBOT",
+   "logo":    "https://te.legra.ph/file/68e2e67944bbd0d0d0c78.jpg",  
+   "repository": "https://github.com/sakshi444a/TGN-ROBOT",
    "addons": [
           {
          "options": {
